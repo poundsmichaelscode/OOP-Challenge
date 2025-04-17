@@ -1,6 +1,6 @@
 
 
-#Note: this is an additional file for the project display without emoji, and a direct display of the pet status 
+#Note: this is an additional file for the project display without emoji, and a direct display of the pet status on the terminal
 
 
 from pet import Pet
